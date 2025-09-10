@@ -1,6 +1,4 @@
-<br clear="both">
-
-<h5 align="center">Hello, my name is Washington Vidal, I have a degree in Game Development Technologies from Uninove.<br><br>I'm 27 years old, I live in Brazil and I'm currently developing myself in learning logic and algorithms, along with the Python programming language, every day I try to develop myself and learn more and more so that one day I reach my goal.</h5>
+<h6 align="left">Hello, my name is Washington Vidal, I have a degree in Game Development Technologies from Uninove.<br><br>I'm 27 years old, I live in Brazil and I'm currently developing myself in learning logic and algorithms, along with the Python programming language, every day I try to develop myself and learn more and more so that one day I reach my goal.</h6>
 
 ###
 
@@ -8,6 +6,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=WashingtonVidal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WashingtonVidal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif"  />
 
 ###
 
@@ -29,13 +31,7 @@
 
 ###
 
-<div align="center">
-  <a href="esmaganobis" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="gaspa6ton@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+<div align="left">
   <a href="https://www.linkedin.com/in/washington-vidal-9b61931b1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
