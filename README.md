@@ -1,4 +1,4 @@
-h6 align="left">Hello, my name is Washington Vidal, I have a degree in Game Development Technologies from Uninove.<br><br>I'm 27 years old, I live in Brazil and I'm currently developing myself in learning logic and algorithms, along with the Python programming language, every day I try to develop myself and learn more and more so that one day I reach my goal.</h6>
+<h6 align="left">Hello, my name is Washington Vidal, I have a degree in Game Development Technologies from Uninove.<br><br>I'm 27 years old, I live in Brazil and I'm currently developing myself in learning logic and algorithms, along with the Python programming language, every day I try to develop myself and learn more and more so that one day I reach my goal.</h6>
 
 ###
 
