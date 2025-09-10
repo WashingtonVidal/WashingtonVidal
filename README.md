@@ -1,4 +1,4 @@
-<h6 align="left">Hello, my name is Washington Vidal, I have a degree in Game Development Technologies from Uninove.<br><br>I'm 27 years old, I live in Brazil and I'm currently developing myself in learning logic and algorithms, along with the Python programming language, every day I try to develop myself and learn more and more so that one day I reach my goal.</h6>
+h6 align="left">Hello, my name is Washington Vidal, I have a degree in Game Development Technologies from Uninove.<br><br>I'm 27 years old, I live in Brazil and I'm currently developing myself in learning logic and algorithms, along with the Python programming language, every day I try to develop myself and learn more and more so that one day I reach my goal.</h6>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -30,10 +30,16 @@
 
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/washingtonvidal" target="_blank">
+<div align="left">
+  <a href="https://www.linkedin.com/in/washingtonvidal" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=WashingtonVidal.WashingtonVidal&"  />
 </div>
 
 ###
